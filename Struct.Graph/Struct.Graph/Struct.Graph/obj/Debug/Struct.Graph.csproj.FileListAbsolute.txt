@@ -1,0 +1,6 @@
+E:\Кабинет\Библиотека\Классы\С#\Struct.Graph\Struct.Graph\Struct.Graph\bin\Debug\Struct.Graph.exe
+E:\Кабинет\Библиотека\Классы\С#\Struct.Graph\Struct.Graph\Struct.Graph\bin\Debug\Struct.Graph.pdb
+E:\Кабинет\Библиотека\Классы\С#\Struct.Graph\Struct.Graph\Struct.Graph\bin\Debug\Struct.Graph.exe.config
+E:\Кабинет\Библиотека\Классы\С#\Struct.Graph\Struct.Graph\Struct.Graph\obj\Debug\Struct.Graph.exe
+E:\Кабинет\Библиотека\Классы\С#\Struct.Graph\Struct.Graph\Struct.Graph\obj\Debug\Struct.Graph.pdb
+E:\Кабинет\Библиотека\Классы\С#\Struct.Graph\Struct.Graph\Struct.Graph\obj\Debug\Struct.Graph.csprojResolveAssemblyReference.cache

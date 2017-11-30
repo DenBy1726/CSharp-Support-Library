@@ -1,0 +1,5 @@
+E:\Кабинет\Библиотека\Классы\С#\AI\AI\bin\Debug\AI.dll
+E:\Кабинет\Библиотека\Классы\С#\AI\AI\bin\Debug\AI.pdb
+E:\Кабинет\Библиотека\Классы\С#\AI\AI\obj\Debug\AI.dll
+E:\Кабинет\Библиотека\Классы\С#\AI\AI\obj\Debug\AI.pdb
+E:\Кабинет\Библиотека\Классы\С#\AI\AI\obj\Debug\AI.csprojResolveAssemblyReference.cache

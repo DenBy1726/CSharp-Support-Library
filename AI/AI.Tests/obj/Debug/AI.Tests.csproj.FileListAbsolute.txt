@@ -1,0 +1,17 @@
+E:\Кабинет\Библиотека\Классы\С#\AI\AI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Кабинет\Библиотека\Классы\С#\AI\AI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Кабинет\Библиотека\Классы\С#\AI\AI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Кабинет\Библиотека\Классы\С#\AI\AI.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\Кабинет\Библиотека\Классы\С#\AI\AI.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\Кабинет\Библиотека\Классы\С#\AI\AI.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Кабинет\Библиотека\Классы\С#\AI\AI.Tests\bin\Debug\AI.Tests.dll
+E:\Кабинет\Библиотека\Классы\С#\AI\AI.Tests\bin\Debug\AI.Tests.pdb
+E:\Кабинет\Библиотека\Классы\С#\AI\AI.Tests\bin\Debug\AI.dll
+E:\Кабинет\Библиотека\Классы\С#\AI\AI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Кабинет\Библиотека\Классы\С#\AI\AI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Кабинет\Библиотека\Классы\С#\AI\AI.Tests\bin\Debug\AI.pdb
+E:\Кабинет\Библиотека\Классы\С#\AI\AI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Кабинет\Библиотека\Классы\С#\AI\AI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Кабинет\Библиотека\Классы\С#\AI\AI.Tests\obj\Debug\AI.Tests.csprojResolveAssemblyReference.cache
+E:\Кабинет\Библиотека\Классы\С#\AI\AI.Tests\obj\Debug\AI.Tests.dll
+E:\Кабинет\Библиотека\Классы\С#\AI\AI.Tests\obj\Debug\AI.Tests.pdb

@@ -1,0 +1,14 @@
+E:\Кабинет\Библиотека\Классы\С#\Algorithm\Algorithm\ML\KMeans\KMeans\bin\Release\KMeans.exe.config
+E:\Кабинет\Библиотека\Классы\С#\Algorithm\Algorithm\ML\KMeans\KMeans\bin\Release\KMeans.exe
+E:\Кабинет\Библиотека\Классы\С#\Algorithm\Algorithm\ML\KMeans\KMeans\bin\Release\KMeans.pdb
+E:\Кабинет\Библиотека\Классы\С#\Algorithm\Algorithm\ML\KMeans\KMeans\bin\Release\Bunifu_UI_v1.4.dll
+E:\Кабинет\Библиотека\Классы\С#\Algorithm\Algorithm\ML\KMeans\KMeans\bin\Release\CloudToolkitN6.dll
+E:\Кабинет\Библиотека\Классы\С#\Algorithm\Algorithm\ML\KMeans\KMeans\bin\Release\ColorListBox.dll
+E:\Кабинет\Библиотека\Классы\С#\Algorithm\Algorithm\ML\KMeans\KMeans\bin\Release\MetroFramework.Design.dll
+E:\Кабинет\Библиотека\Классы\С#\Algorithm\Algorithm\ML\KMeans\KMeans\bin\Release\MetroFramework.dll
+E:\Кабинет\Библиотека\Классы\С#\Algorithm\Algorithm\ML\KMeans\KMeans\bin\Release\MetroFramework.Fonts.dll
+E:\Кабинет\Библиотека\Классы\С#\Algorithm\Algorithm\ML\KMeans\KMeans\obj\Release\KMeans.Form1.resources
+E:\Кабинет\Библиотека\Классы\С#\Algorithm\Algorithm\ML\KMeans\KMeans\obj\Release\KMeans.Properties.Resources.resources
+E:\Кабинет\Библиотека\Классы\С#\Algorithm\Algorithm\ML\KMeans\KMeans\obj\Release\KMeans.csproj.GenerateResource.Cache
+E:\Кабинет\Библиотека\Классы\С#\Algorithm\Algorithm\ML\KMeans\KMeans\obj\Release\KMeans.exe
+E:\Кабинет\Библиотека\Классы\С#\Algorithm\Algorithm\ML\KMeans\KMeans\obj\Release\KMeans.pdb

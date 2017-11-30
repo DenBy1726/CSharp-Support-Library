@@ -1,0 +1,6 @@
+E:\Кабинет\Библиотека функций\мои классы\С#\Algorithm\Algorithm\Algorithm\bin\Debug\Algorithm.exe.config
+E:\Кабинет\Библиотека функций\мои классы\С#\Algorithm\Algorithm\Algorithm\bin\Debug\Algorithm.exe
+E:\Кабинет\Библиотека функций\мои классы\С#\Algorithm\Algorithm\Algorithm\bin\Debug\Algorithm.pdb
+E:\Кабинет\Библиотека функций\мои классы\С#\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.csprojResolveAssemblyReference.cache
+E:\Кабинет\Библиотека функций\мои классы\С#\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.exe
+E:\Кабинет\Библиотека функций\мои классы\С#\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.pdb

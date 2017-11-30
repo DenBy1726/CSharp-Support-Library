@@ -1,0 +1,6 @@
+E:\Кабинет\Библиотека\Классы\С#\Lingua.Stemming\Lingua\Lingua\bin\Debug\Lingua.exe.config
+E:\Кабинет\Библиотека\Классы\С#\Lingua.Stemming\Lingua\Lingua\bin\Debug\Lingua.exe
+E:\Кабинет\Библиотека\Классы\С#\Lingua.Stemming\Lingua\Lingua\bin\Debug\Lingua.pdb
+E:\Кабинет\Библиотека\Классы\С#\Lingua.Stemming\Lingua\Lingua\obj\Debug\Lingua.csprojResolveAssemblyReference.cache
+E:\Кабинет\Библиотека\Классы\С#\Lingua.Stemming\Lingua\Lingua\obj\Debug\Lingua.exe
+E:\Кабинет\Библиотека\Классы\С#\Lingua.Stemming\Lingua\Lingua\obj\Debug\Lingua.pdb

@@ -1,0 +1,6 @@
+E:\Кабинет\Библиотека\Классы\С#\Lingua.Morph\Morph\Morph\Morph\bin\Debug\Morph.exe.config
+E:\Кабинет\Библиотека\Классы\С#\Lingua.Morph\Morph\Morph\Morph\bin\Debug\Morph.exe
+E:\Кабинет\Библиотека\Классы\С#\Lingua.Morph\Morph\Morph\Morph\bin\Debug\Morph.pdb
+E:\Кабинет\Библиотека\Классы\С#\Lingua.Morph\Morph\Morph\Morph\obj\Debug\Morph.csprojResolveAssemblyReference.cache
+E:\Кабинет\Библиотека\Классы\С#\Lingua.Morph\Morph\Morph\Morph\obj\Debug\Morph.exe
+E:\Кабинет\Библиотека\Классы\С#\Lingua.Morph\Morph\Morph\Morph\obj\Debug\Morph.pdb

@@ -1,0 +1,12 @@
+E:\Кабинет\Библиотека функций\мои классы\С#\Сalc.Crypto\eke elgamal\eke elgamal\bin\Debug\eke elgamal.exe.config
+E:\Кабинет\Библиотека функций\мои классы\С#\Сalc.Crypto\eke elgamal\eke elgamal\bin\Debug\eke elgamal.exe
+E:\Кабинет\Библиотека функций\мои классы\С#\Сalc.Crypto\eke elgamal\eke elgamal\bin\Debug\eke elgamal.pdb
+E:\Кабинет\Библиотека функций\мои классы\С#\Сalc.Crypto\eke elgamal\eke elgamal\obj\Debug\eke elgamal.exe
+E:\Кабинет\Библиотека функций\мои классы\С#\Сalc.Crypto\eke elgamal\eke elgamal\obj\Debug\eke elgamal.pdb
+E:\Кабинет\Библиотека функций\мои классы\С#\Сalc.Crypto\eke elgamal\eke elgamal\obj\Debug\eke elgamal.csprojResolveAssemblyReference.cache
+E:\Кабинет\Библиотека\Классы\С#\Сalc.Crypto\eke elgamal\eke elgamal\bin\Debug\eke elgamal.exe.config
+E:\Кабинет\Библиотека\Классы\С#\Сalc.Crypto\eke elgamal\eke elgamal\obj\Debug\eke elgamal.exe
+E:\Кабинет\Библиотека\Классы\С#\Сalc.Crypto\eke elgamal\eke elgamal\obj\Debug\eke elgamal.pdb
+E:\Кабинет\Библиотека\Классы\С#\Сalc.Crypto\eke elgamal\eke elgamal\bin\Debug\eke elgamal.exe
+E:\Кабинет\Библиотека\Классы\С#\Сalc.Crypto\eke elgamal\eke elgamal\bin\Debug\eke elgamal.pdb
+E:\Кабинет\Библиотека\Классы\С#\Сalc.Crypto\eke elgamal\eke elgamal\obj\Debug\eke elgamal.csprojResolveAssemblyReference.cache

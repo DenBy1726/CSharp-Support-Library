@@ -1,0 +1,6 @@
+E:\Кабинет\Библиотека функций\мои классы\С#\Calc.Logic\Calc.Logic\bin\Debug\Calc.Logic.exe.config
+E:\Кабинет\Библиотека функций\мои классы\С#\Calc.Logic\Calc.Logic\bin\Debug\Calc.Logic.exe
+E:\Кабинет\Библиотека функций\мои классы\С#\Calc.Logic\Calc.Logic\bin\Debug\Calc.Logic.pdb
+E:\Кабинет\Библиотека функций\мои классы\С#\Calc.Logic\Calc.Logic\obj\Debug\Calc.Logic.csprojResolveAssemblyReference.cache
+E:\Кабинет\Библиотека функций\мои классы\С#\Calc.Logic\Calc.Logic\obj\Debug\Calc.Logic.exe
+E:\Кабинет\Библиотека функций\мои классы\С#\Calc.Logic\Calc.Logic\obj\Debug\Calc.Logic.pdb
